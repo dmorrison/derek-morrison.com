@@ -1,16 +1,44 @@
+h1 {
+	color: #666666;
+	font-size: 5.5em;
+	margin: 0;
+}
+
 #title {
 	border-top: 8px solid #666666;
-	margin: 140px 0 15px 0;
+	margin-top: 140px;
 	padding: 30px 0 0 0;
 }
 
-#text {	
+#text {
+	font-family: Georgia;
+	font-size: 18px;
+	line-height: 26px;
+	margin-top: 23px;
+}
+
+#text span {
+	background: none repeat scroll 0 0 #666666;
+	padding: 1px 2px;
+}
+
+#dm {
+	color: #A4F1F8;
+}
+
+#itt {
+	color: #E8E741;
+}
+
+#q8 {
+	color: #E68E9C;
 }
 
 #footer {
 	border-top: 3px solid #666666;
+	color: #666666;
 	font-weight: bold;
-	padding: 12px 0 0 0;
-	margin: 12px 0 0 0;
+	padding-top: 12px;
+	margin-top: 12px;
 	text-align: right;
 }
