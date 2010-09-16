@@ -4,20 +4,34 @@ h1 {
 	margin: 0;
 }
 
+h2 {
+	color: #ffffff;
+	margin: 0;
+}
+
+.subtitle {
+	color: #ffffff;
+	background-color: #666666;
+	margin-bottom: 0.75em;
+}
+
 #title {
 	border-top: 8px solid #666666;
 	margin-top: 140px;
 	padding: 30px 0 0 0;
 }
 
-#text {
-	font-family: Georgia;
-	font-size: 18px;
-	line-height: 26px;
+#meat {
 	margin-top: 23px;
 }
 
-#text span {
+#meat p {
+	font-family: Georgia;
+	font-size: 18px;
+	line-height: 26px;
+}
+
+#meat span {
 	background: none repeat scroll 0 0 #666666;
 	padding: 1px 2px;
 }
