@@ -17,7 +17,7 @@ h2 {
 
 #title {
 	border-top: 8px solid #666666;
-	margin-top: 140px;
+	margin-top: 80px;
 	padding: 30px 0 0 0;
 }
 
@@ -36,16 +36,32 @@ h2 {
 	padding: 1px 2px;
 }
 
-#dm {
+span#dm {
 	color: #A4F1F8;
 }
 
-#itt {
+span#itt {
 	color: #E8E741;
 }
 
-#q8 {
+span#q8 {
 	color: #E68E9C;
+}
+
+span.writing-item {
+	color: #53CB2D;
+}
+
+div#social-items a img {
+	vertical-align: bottom;
+}
+
+span.social-item {
+	color: #FFFFFF;
+}
+
+#social a {
+	text-decoration: none;
 }
 
 #footer {
@@ -53,6 +69,6 @@ h2 {
 	color: #666666;
 	font-weight: bold;
 	padding-top: 12px;
-	margin-top: 12px;
+	margin: 12px 0 50px 0;
 	text-align: right;
 }
