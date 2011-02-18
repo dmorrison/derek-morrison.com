@@ -18,8 +18,8 @@ a:hover {
     text-decoration: underline;
 }
 h1, h2, h3, h4 {
-  font-family: xFutura, "Gill Sans", helvetica, sans-serif;
-  text-transform: uppercase;
+    font-family: xFutura, "Gill Sans", helvetica, sans-serif;
+    text-transform: uppercase;
     font-weight: normal;
     letter-spacing: .05em;
     color:  #222;
